@@ -98,3 +98,5 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+
+//this is the home screen of this app for the chat purpose
